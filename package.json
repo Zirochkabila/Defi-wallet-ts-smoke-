@@ -1,0 +1,26 @@
+{
+  "name": "defi-wallet-ts-smoke-",
+  "version": "1.0.0",
+  "description": "Playwright + TypeScript smoke tests for self-custodial wallets   (WalletConnect, EVM transactions, MetaMask-like flows)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zirochkabila/Defi-wallet-ts-smoke-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Zirochkabila/Defi-wallet-ts-smoke-/issues"
+  },
+  "homepage": "https://github.com/Zirochkabila/Defi-wallet-ts-smoke-#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "dotenv": "^17.2.3",
+    "typescript": "^5.9.3"
+  }
+}
